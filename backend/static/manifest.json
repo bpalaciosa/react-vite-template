@@ -1,0 +1,41 @@
+{
+  "src/images/empresa.svg": {
+    "file": "assets/empresa.d3b1e83c.svg",
+    "src": "src/images/empresa.svg"
+  },
+  "src/images/stovetop.png": {
+    "file": "assets/stovetop.8db169c1.png",
+    "src": "src/images/stovetop.png"
+  },
+  "src/images/gas tank.jpg": {
+    "file": "assets/gas tank.592a45ed.jpg",
+    "src": "src/images/gas tank.jpg"
+  },
+  "src/images/empresas.svg": {
+    "file": "assets/empresas.c5df37e3.svg",
+    "src": "src/images/empresas.svg"
+  },
+  "src/videos/gas.mp4": {
+    "file": "assets/gas.f2a39bc5.mp4",
+    "src": "src/videos/gas.mp4"
+  },
+  "index.html": {
+    "file": "assets/index.6512d3f5.js",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index.6e79bae1.css"
+    ],
+    "assets": [
+      "assets/gas.f2a39bc5.mp4",
+      "assets/empresa.d3b1e83c.svg",
+      "assets/stovetop.8db169c1.png",
+      "assets/gas tank.592a45ed.jpg",
+      "assets/empresas.c5df37e3.svg"
+    ]
+  },
+  "index.css": {
+    "file": "assets/index.6e79bae1.css",
+    "src": "index.css"
+  }
+}

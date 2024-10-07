@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend\\static",
+    "\\backend\\static\\assets",
+    "\\frontend",
+    "\\frontend\\dist",
+    "\\frontend\\dist\\assets",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\components\\Navbar",
+    "\\frontend\\src\\pages"
+  ],
+  "SelectedNode": "\\frontend\\src\\components\\Navbar\\index.js",
+  "PreviewInSolutionExplorer": false
+}
